@@ -11,3 +11,9 @@
 </ul>
 
 <hr>
+
+<h2>Hosting</h2>
+
+<p>Yet Another Discord Moderation Bot is powered by Ezrinix. They strive to provide the best budget hosting solutions for your needs, including VPS, Web, Dedicated, and Colocation. If you want to try their services you can click the "Powered by Ezrinix" button below to purchase a service.</p>
+
+<a href="https://ezrinix.com" target="_blank"><img src="https://i.imgur.com/wuCFtiS.png" alt="Ezrinix Referral Badge" width="200"></a>
