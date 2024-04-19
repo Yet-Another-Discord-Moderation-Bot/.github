@@ -1,12 +1,13 @@
-## Hi there 👋
+<img src="https://i.imgur.com/ASlu0Ru.png" alt="image>
 
-<!--
+<hr>
 
-**Here are some ideas to get you started:**
+<h2>Our Links</h2>
+<ul>
+  <li><a href="https://yadmb.xyz">Website</a> - Our Website</li>
+  <li><a href="https://discord.gg/AC4rbMCwGG">Discord</a> - Our Discord Server</li>
+  <li><a href="https://twitter.com/YADMB_">Twitter</a> - Our Twitter Account</li>
+  <li><a href="https://yadmb.instatus.com/">Status</a> - Our Status Page</li>
+</ul>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<hr>
